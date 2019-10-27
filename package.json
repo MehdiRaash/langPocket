@@ -1,0 +1,25 @@
+{
+  "name": "langpocket",
+  "version": "1.0.0",
+  "description": "langPocket is a multilingual online translation dictionary created and maintained as an open collaboration project by a community of users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MehdiRaash/langPocket.git"
+  },
+  "author": "Mehdi Raash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MehdiRaash/langPocket/issues"
+  },
+  "homepage": "https://github.com/MehdiRaash/langPocket#readme",
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4"
+  }
+}
